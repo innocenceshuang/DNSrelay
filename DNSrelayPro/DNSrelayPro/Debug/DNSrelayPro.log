@@ -1,0 +1,14 @@
+﻿  DNSrelayPro.cpp
+  analyser.cpp
+D:\study\c\DNSrelayPro\DNSrelayPro\analyser.cpp(24,17): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\c\DNSrelayPro\DNSrelayPro\analyser.cpp(28,12): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\c\DNSrelayPro\DNSrelayPro\analyser.cpp(86,6): warning C4102: “std”: 未引用的标签
+D:\study\c\DNSrelayPro\DNSrelayPro\analyser.cpp(260,15): warning C4309: “=”: 截断常量值
+D:\study\c\DNSrelayPro\DNSrelayPro\analyser.cpp(260,34): warning C4309: “=”: 截断常量值
+D:\study\c\DNSrelayPro\DNSrelayPro\analyser.cpp(264,21): warning C4309: “=”: 截断常量值
+D:\study\c\DNSrelayPro\DNSrelayPro\analyser.cpp(273,109): warning C4309: “=”: 截断常量值
+D:\study\c\DNSrelayPro\DNSrelayPro\analyser.cpp(281,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\c\DNSrelayPro\DNSrelayPro\analyser.cpp(295,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\study\c\DNSrelayPro\DNSrelayPro\analyser.cpp(306,16): warning C4309: “=”: 截断常量值
+  正在生成代码...
+  DNSrelayPro.vcxproj -> D:\study\c\DNSrelayPro\Debug\DNSrelayPro.exe
